@@ -13,7 +13,7 @@ class Header extends Component {
                 </div>
                 <div className="divLiens">
                     <NavLink to="/Accueil" className="Liens">HOME</NavLink>
-                    <NavLink to="/Presentation" className="Liens">PRESENTATION</NavLink>
+                    <NavLink to="/Presentation" className="Liens">PREZ</NavLink>
                     <NavLink to="/Produits" className="Liens">PRODUITS</NavLink>
                     <NavLink to="/Createurs" className="Liens">CREATEURS</NavLink>
                     <NavLink to="/Contact" className="Liens">CONTACT</NavLink>
